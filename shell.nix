@@ -10,7 +10,6 @@
     awscli2
     azure-cli
     upbound
-    teller
     crossplane-cli
     teller
     kubernetes-helm
